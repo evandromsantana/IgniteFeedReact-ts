@@ -1,4 +1,4 @@
-<img src="./capa.png" alt="preview"/>
+<img src="./capa.svg" alt="preview"/>
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,8 +34,7 @@ $ npm run dev
 # the application is running on http://localhost:3001/
 ```
 
----
-
+<hr />
 <p>Made with 💜 by Evandro de Macêdo Santana</p>
 
 <a href="https://www.linkedin.com/in/evandro-m-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
